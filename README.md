@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Aquiles Oliveira  
 
-🎓 **Estudante de Tecnologia da Informação** 
-💻 Apaixonado por desenvolvimento de software, análise de dados e segurança da informação 🚀 Em constante evolução para atuar como **desenvolvedor full stack** e criar soluções de impacto real  
-
+🎓 **Estudante de Tecnologia da Informação** em constante evolução para atuar como **desenvolvedor full stack**
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
