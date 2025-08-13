@@ -3,7 +3,7 @@
 #### 🎓**Estudante de Tecnologia da Informação** em constante evolução para atuar como **desenvolvedor full stack**
 ---
 
-## ◼️ Tecnologias e Ferramentas
+## ◾ Tecnologias e Ferramentas
 - **Linguagens:** C++, Python, SQL, HTML, CSS  
 - **Frameworks/Bibliotecas:** Flask, Pandas, Matplotlib  
 - **Banco de Dados:** MySQL, SQLite  
@@ -12,7 +12,7 @@
   
 ---
 
-## ◼️ Projetos em Destaque
+## ◾ Projetos em Destaque
 *(Mais projetos serão adicionados conforme avanço do portfólio)*
 
 1. **Sistema de Classificação Econômica Baseado em CNAE (MySQL)**  
@@ -22,7 +22,7 @@
 
 ---
 
-## ◼️ Atualmente Estudando
+## ◾ Atualmente Estudando
 - Estrutura de Dados  
 - Segurança da Informação  
 - Organização de Computadores  
@@ -31,6 +31,6 @@
 
 ---
 
-## ◼️ Como me encontrar
+## ◾ Como me encontrar
 - **LinkedIn:** [linkedin.com/in/aquiles-oliveira](https://www.linkedin.com/in/aquiles-oliveira-92938336b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - **E-mail:** profissional.aquilesoliveira@gmail.com 
