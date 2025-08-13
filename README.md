@@ -12,7 +12,7 @@
 - **Banco de Dados:** MySQL, SQLite  
 - **Ferramentas:** Git, GitHub, Linux, MySQL Workbench  
 - **Áreas de interesse:** Backend Development, Data Analysis & Visualization, APIs, CRUD Applications, Segurança da Informação
-- 
+  
 ---
 
 ## 📚 Atualmente Estudando
