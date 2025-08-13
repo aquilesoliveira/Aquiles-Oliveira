@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Aquiles Oliveira  
 
-🎓 **Estudante de Tecnologia da Informação** em constante evolução para atuar como **desenvolvedor full stack**
+🎓 **Estudante de Tecnologia da Informação** 
+Em constante evolução para atuar como **desenvolvedor full stack**
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
