@@ -25,5 +25,5 @@
 ---
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/aquiles-oliveira-92938336b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- **LinkedIn:** [linkedin.com/in/aquiles-oliveira](https://www.linkedin.com/in/aquiles-oliveira-92938336b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - **E-mail:** profissional.aquilesoliveira@gmail.com 
