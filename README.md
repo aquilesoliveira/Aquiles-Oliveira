@@ -17,7 +17,7 @@
 ## 📌 Projetos em Destaque
 *(Mais projetos serão adicionados conforme avanço do portfólio)*
 
-1. **Sistema de Classificção Econômica Baseado em CNAE (MySQL)**  
+1. **Sistema de Classificação Econômica Baseado em CNAE (MySQL)**  
    Implementação de um Banco de Dados CNAE em MySQL: Schema, Consultas e Aplicações.  
    **Tecnologias:** MySQL Workbench
    [🔗 Repositório](https://github.com/aquilesoliveira/cnae-database-mysql)
