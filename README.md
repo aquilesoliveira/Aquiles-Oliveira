@@ -20,7 +20,7 @@
 1. **Sistema de Classificção Econômica Baseado em CNAE (MySQL)**  
    Implementação de um Banco de Dados CNAE em MySQL: Schema, Consultas e Aplicações.  
    **Tecnologias:** MySQL Workbench
-   [🔗 Repositório](#)
+   [🔗 Repositório](https://github.com/aquilesoliveira/cnae-database-mysql)
 
 ---
 
