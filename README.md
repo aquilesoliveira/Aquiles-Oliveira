@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Aquiles Oliveira  
 
-<!--
-**aquilesoliveira/AquilesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Tecnologia da Informação** 
+💻 Apaixonado por desenvolvimento de software, análise de dados e segurança da informação  
+🚀 Em constante evolução para atuar como **desenvolvedor full stack** e criar soluções de impacto real  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** C++, Python, SQL, HTML, CSS  
+- **Frameworks/Bibliotecas:** Flask, Pandas, Matplotlib  
+- **Banco de Dados:** MySQL, SQLite  
+- **Ferramentas:** Git, GitHub, Linux, MySQL Workbench  
+- **Áreas de interesse:** Backend Development, Data Analysis & Visualization, APIs, CRUD Applications, Segurança da Informação
+- 
+---
+
+## 📚 Atualmente Estudando
+- Estrutura de Dados  
+- Segurança da Informação  
+- Organização de Computadores  
+- Grokking Algorithms (Leitura Técnica)  
+- CS50’s Introduction to Programming with Python (Harvard)  
+
+---
+
+## 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/aquiles-oliveira-92938336b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- **E-mail:** profissional.aquilesoliveira@gmail.com 
