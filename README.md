@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Aquiles Oliveira  
 
-### **Estudante de Gestão da Tecnologia da Informação** em constante evolução para atuar como **desenvolvedor full stack**
+###3 **Estudante de Gestão da Tecnologia da Informação** em constante evolução para atuar como **desenvolvedor full stack**
 ---
 
 ## ◾ Tecnologias e Ferramentas
